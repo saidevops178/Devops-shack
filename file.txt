@@ -1,2 +1,3 @@
 #HELLO FILE1
 This is line NO 2
+This is new line
